@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans|Roboto+Mono&display=swap" rel="stylesheet">
+</head>
+ 
+</head>
+
+<body>
+ <div class="container">
+		<div class="intro">
+      <img src="project.png"/>
+			<img class="profile-picture" src="project.png" />
+			<h1>Dahmer</h1>
+			<p class="quote">{ based on true story }</p>
+      <p>Jeffrey Lionel Dahmer (/ˈdɑːmər/; May 21, 1960 – November 28, 1994), also known as the Milwaukee Cannibal or the Milwaukee Monster, was an American serial killer and sex offender who committed the murder and dismemberment of seventeen men and boys between 1978 and 1991.[2] Many of his later murders involved necrophilia,[3] cannibalism, and the permanent preservation of body parts — typically all or part of the skeleton.[4]</p>
+      <p>Although he was diagnosed with borderline personality disorder,[5] schizotypal personality disorder,[6] and a psychotic disorder, Dahmer was found to be legally sane at his trial. He was convicted of fifteen of the sixteen murders he had committed in Wisconsin and was sentenced to fifteen terms of life imprisonment on February 17, 1992.[7] Dahmer was later sentenced to a sixteenth term of life imprisonment for an additional homicide committed in Ohio in 1978.</p>
+      <p>On November 28, 1994, Dahmer was beaten to death by Christopher Scarver, a fellow inmate at the Columbia Correctional Institution in Portage, Wisconsin.</p>
+		</div>
+		<div class="about-grid">
+			<div class="i-am">
+				<h3>I am</h3>
+				<ul class="about-list">
+					<li>A student</li>
+					<li>A reader</li>
+					<li>A hobby cook</li>
+				</ul>
+			</div>
+			<div class="i-like">
+				<h3>I like to</h3>
+				<ul class="about-list">
+					<li>Meet new people</li>
+					<li>Play guitar</li>
+					<li>Eat Icecream</li>
+				</ul>
+			</div>
+		</div>
+		<div>
+       <h3 class="projects-heading">My Projects</h3>
+  <div class="projects-grid">
+    <img class="project-image" src="project 1.png"/>
+
+    
+    <img class="project-image" src="project 2.png"/>
+
+    
+    <img class="project-image" src="project 3.png"/>
+
+    
+    <img class="project-image" src="project 4.png"/>
+
+    
+  </div>
+</div>
+			
+			
+		<div class="links-and-contact">
+			<div class="links">
+				<h3>Links</h3>
+				<ul class="links-list">
+					<li>
+						<a href="https://twitter.com/">Twitter</a>
+					</li>
+					<li>
+						<a href="https://linkedin.com">Linkedin</a>
+					</li>
+				</ul>
+			</div>
+			<div>
+        <form action="#">
+					<label for="email">
+						Email: <input type="email" id="email" placeholder="Enter your email" /> 
+						<h4>Email</h4>
+						<input type="email" id="email" placeholder="Enter your email" />
+					</label>
+					<label for="message">
+						Message: <textarea id="message">Your Message</textarea>
+						<h4>Message</h4>
+						<textarea id="message">Your Message</textarea>
+					</label>
+					<input type="submit" valid="Send Message" />
+					<div class="submit-button-wrapper">
+						<input type="submit" valid="Send Message" />
+					</div>
+				</form>
+			</div>
+		</div>
+
+				
+</body>
+
+</html>
